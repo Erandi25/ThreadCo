@@ -1,0 +1,355 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{216B4A5B-3B79-4F8E-8FE1-60ED41AA6EB7}|ThreadCo\\ThreadCo.csproj|d:\\webs\\thread co- fashion web site\\threadco\\threadco\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{216B4A5B-3B79-4F8E-8FE1-60ED41AA6EB7}|ThreadCo\\ThreadCo.csproj|solutionrelative:threadco\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216B4A5B-3B79-4F8E-8FE1-60ED41AA6EB7}|ThreadCo\\ThreadCo.csproj|D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\Products.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216B4A5B-3B79-4F8E-8FE1-60ED41AA6EB7}|ThreadCo\\ThreadCo.csproj|solutionrelative:ThreadCo\\Products.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216B4A5B-3B79-4F8E-8FE1-60ED41AA6EB7}|ThreadCo\\ThreadCo.csproj|D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\Trends.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{216B4A5B-3B79-4F8E-8FE1-60ED41AA6EB7}|ThreadCo\\ThreadCo.csproj|solutionrelative:ThreadCo\\Trends.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216B4A5B-3B79-4F8E-8FE1-60ED41AA6EB7}|ThreadCo\\ThreadCo.csproj|D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\Products.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{216B4A5B-3B79-4F8E-8FE1-60ED41AA6EB7}|ThreadCo\\ThreadCo.csproj|solutionrelative:ThreadCo\\Products.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216B4A5B-3B79-4F8E-8FE1-60ED41AA6EB7}|ThreadCo\\ThreadCo.csproj|D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\New_Arrivals.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216B4A5B-3B79-4F8E-8FE1-60ED41AA6EB7}|ThreadCo\\ThreadCo.csproj|solutionrelative:ThreadCo\\New_Arrivals.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216B4A5B-3B79-4F8E-8FE1-60ED41AA6EB7}|ThreadCo\\ThreadCo.csproj|D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\New_Arrivals.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{216B4A5B-3B79-4F8E-8FE1-60ED41AA6EB7}|ThreadCo\\ThreadCo.csproj|solutionrelative:ThreadCo\\New_Arrivals.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216B4A5B-3B79-4F8E-8FE1-60ED41AA6EB7}|ThreadCo\\ThreadCo.csproj|D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\Trends.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216B4A5B-3B79-4F8E-8FE1-60ED41AA6EB7}|ThreadCo\\ThreadCo.csproj|solutionrelative:ThreadCo\\Trends.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216B4A5B-3B79-4F8E-8FE1-60ED41AA6EB7}|ThreadCo\\ThreadCo.csproj|D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\XXS.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{216B4A5B-3B79-4F8E-8FE1-60ED41AA6EB7}|ThreadCo\\ThreadCo.csproj|solutionrelative:ThreadCo\\XXS.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216B4A5B-3B79-4F8E-8FE1-60ED41AA6EB7}|ThreadCo\\ThreadCo.csproj|D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\XXS.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216B4A5B-3B79-4F8E-8FE1-60ED41AA6EB7}|ThreadCo\\ThreadCo.csproj|solutionrelative:ThreadCo\\XXS.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216B4A5B-3B79-4F8E-8FE1-60ED41AA6EB7}|ThreadCo\\ThreadCo.csproj|D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\ItemRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216B4A5B-3B79-4F8E-8FE1-60ED41AA6EB7}|ThreadCo\\ThreadCo.csproj|solutionrelative:ThreadCo\\ItemRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216B4A5B-3B79-4F8E-8FE1-60ED41AA6EB7}|ThreadCo\\ThreadCo.csproj|D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\Collection.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216B4A5B-3B79-4F8E-8FE1-60ED41AA6EB7}|ThreadCo\\ThreadCo.csproj|solutionrelative:ThreadCo\\Collection.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216B4A5B-3B79-4F8E-8FE1-60ED41AA6EB7}|ThreadCo\\ThreadCo.csproj|D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\Home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216B4A5B-3B79-4F8E-8FE1-60ED41AA6EB7}|ThreadCo\\ThreadCo.csproj|solutionrelative:ThreadCo\\Home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216B4A5B-3B79-4F8E-8FE1-60ED41AA6EB7}|ThreadCo\\ThreadCo.csproj|D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\Collection.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{216B4A5B-3B79-4F8E-8FE1-60ED41AA6EB7}|ThreadCo\\ThreadCo.csproj|solutionrelative:ThreadCo\\Collection.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216B4A5B-3B79-4F8E-8FE1-60ED41AA6EB7}|ThreadCo\\ThreadCo.csproj|D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\Login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{216B4A5B-3B79-4F8E-8FE1-60ED41AA6EB7}|ThreadCo\\ThreadCo.csproj|solutionrelative:ThreadCo\\Login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216B4A5B-3B79-4F8E-8FE1-60ED41AA6EB7}|ThreadCo\\ThreadCo.csproj|D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\Login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216B4A5B-3B79-4F8E-8FE1-60ED41AA6EB7}|ThreadCo\\ThreadCo.csproj|solutionrelative:ThreadCo\\Login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216B4A5B-3B79-4F8E-8FE1-60ED41AA6EB7}|ThreadCo\\ThreadCo.csproj|D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\Site.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{216B4A5B-3B79-4F8E-8FE1-60ED41AA6EB7}|ThreadCo\\ThreadCo.csproj|solutionrelative:ThreadCo\\Site.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216B4A5B-3B79-4F8E-8FE1-60ED41AA6EB7}|ThreadCo\\ThreadCo.csproj|D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\Terms_Conditions.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{216B4A5B-3B79-4F8E-8FE1-60ED41AA6EB7}|ThreadCo\\ThreadCo.csproj|solutionrelative:ThreadCo\\Terms_Conditions.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216B4A5B-3B79-4F8E-8FE1-60ED41AA6EB7}|ThreadCo\\ThreadCo.csproj|D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\ContactUs.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{216B4A5B-3B79-4F8E-8FE1-60ED41AA6EB7}|ThreadCo\\ThreadCo.csproj|solutionrelative:ThreadCo\\ContactUs.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216B4A5B-3B79-4F8E-8FE1-60ED41AA6EB7}|ThreadCo\\ThreadCo.csproj|D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\Cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{216B4A5B-3B79-4F8E-8FE1-60ED41AA6EB7}|ThreadCo\\ThreadCo.csproj|solutionrelative:ThreadCo\\Cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216B4A5B-3B79-4F8E-8FE1-60ED41AA6EB7}|ThreadCo\\ThreadCo.csproj|D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\Payment.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{216B4A5B-3B79-4F8E-8FE1-60ED41AA6EB7}|ThreadCo\\ThreadCo.csproj|solutionrelative:ThreadCo\\Payment.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 378,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Products.aspx.cs",
+              "DocumentMoniker": "D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\Products.aspx.cs",
+              "RelativeDocumentMoniker": "ThreadCo\\Products.aspx.cs",
+              "ToolTip": "D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\Products.aspx.cs",
+              "RelativeToolTip": "ThreadCo\\Products.aspx.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvzkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:46:12.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Trends.aspx",
+              "DocumentMoniker": "D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\Trends.aspx",
+              "RelativeDocumentMoniker": "ThreadCo\\Trends.aspx",
+              "ToolTip": "D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\Trends.aspx",
+              "RelativeToolTip": "ThreadCo\\Trends.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-25T08:29:42.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Products.aspx",
+              "DocumentMoniker": "D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\Products.aspx",
+              "RelativeDocumentMoniker": "ThreadCo\\Products.aspx",
+              "ToolTip": "D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\Products.aspx",
+              "RelativeToolTip": "ThreadCo\\Products.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-25T09:19:04.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "New_Arrivals.aspx.cs",
+              "DocumentMoniker": "D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\New_Arrivals.aspx.cs",
+              "RelativeDocumentMoniker": "ThreadCo\\New_Arrivals.aspx.cs",
+              "ToolTip": "D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\New_Arrivals.aspx.cs",
+              "RelativeToolTip": "ThreadCo\\New_Arrivals.aspx.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA7wBQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T08:32:54.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\Home.aspx",
+              "RelativeDocumentMoniker": "ThreadCo\\Home.aspx",
+              "ToolTip": "D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\Home.aspx",
+              "RelativeToolTip": "ThreadCo\\Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-21T08:22:41.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "New_Arrivals.aspx",
+              "DocumentMoniker": "D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\New_Arrivals.aspx",
+              "RelativeDocumentMoniker": "ThreadCo\\New_Arrivals.aspx",
+              "ToolTip": "D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\New_Arrivals.aspx",
+              "RelativeToolTip": "ThreadCo\\New_Arrivals.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-21T08:52:14.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Trends.aspx.cs",
+              "DocumentMoniker": "D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\Trends.aspx.cs",
+              "RelativeDocumentMoniker": "ThreadCo\\Trends.aspx.cs",
+              "ToolTip": "D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\Trends.aspx.cs",
+              "RelativeToolTip": "ThreadCo\\Trends.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T08:32:01.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "XXS.aspx",
+              "DocumentMoniker": "D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\XXS.aspx",
+              "RelativeDocumentMoniker": "ThreadCo\\XXS.aspx",
+              "ToolTip": "D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\XXS.aspx",
+              "RelativeToolTip": "ThreadCo\\XXS.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-25T09:11:22.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "XXS.aspx.cs",
+              "DocumentMoniker": "D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\XXS.aspx.cs",
+              "RelativeDocumentMoniker": "ThreadCo\\XXS.aspx.cs",
+              "ToolTip": "D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\XXS.aspx.cs",
+              "RelativeToolTip": "ThreadCo\\XXS.aspx.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAADwvycAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:13:48.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ItemRepository.cs",
+              "DocumentMoniker": "D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\ItemRepository.cs",
+              "RelativeDocumentMoniker": "ThreadCo\\ItemRepository.cs",
+              "ToolTip": "D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\ItemRepository.cs",
+              "RelativeToolTip": "ThreadCo\\ItemRepository.cs",
+              "ViewState": "AgIAANcAAAAAAAAAAAAgwMgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T08:18:48.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Collection.aspx.cs",
+              "DocumentMoniker": "D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\Collection.aspx.cs",
+              "RelativeDocumentMoniker": "ThreadCo\\Collection.aspx.cs",
+              "ToolTip": "D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\Collection.aspx.cs",
+              "RelativeToolTip": "ThreadCo\\Collection.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T08:16:24.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Home.aspx.cs",
+              "DocumentMoniker": "D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\Home.aspx.cs",
+              "RelativeDocumentMoniker": "ThreadCo\\Home.aspx.cs",
+              "ToolTip": "D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\Home.aspx.cs",
+              "RelativeToolTip": "ThreadCo\\Home.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T08:19:36.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Collection.aspx",
+              "DocumentMoniker": "D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\Collection.aspx",
+              "RelativeDocumentMoniker": "ThreadCo\\Collection.aspx",
+              "ToolTip": "D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\Collection.aspx",
+              "RelativeToolTip": "ThreadCo\\Collection.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-21T09:50:41.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\Login.aspx",
+              "RelativeDocumentMoniker": "ThreadCo\\Login.aspx",
+              "ToolTip": "D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\Login.aspx",
+              "RelativeToolTip": "ThreadCo\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-23T05:56:49.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "ThreadCo\\Login.aspx.cs",
+              "ToolTip": "D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\Login.aspx.cs",
+              "RelativeToolTip": "ThreadCo\\Login.aspx.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAqwDYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T05:56:51.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Site.Master",
+              "DocumentMoniker": "D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\Site.Master",
+              "RelativeDocumentMoniker": "ThreadCo\\Site.Master",
+              "ToolTip": "D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\Site.Master",
+              "RelativeToolTip": "ThreadCo\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-23T09:25:29.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Terms_Conditions.aspx",
+              "DocumentMoniker": "D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\Terms_Conditions.aspx",
+              "RelativeDocumentMoniker": "ThreadCo\\Terms_Conditions.aspx",
+              "ToolTip": "D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\Terms_Conditions.aspx",
+              "RelativeToolTip": "ThreadCo\\Terms_Conditions.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-21T08:53:14.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ContactUs.aspx",
+              "DocumentMoniker": "D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\ContactUs.aspx",
+              "RelativeDocumentMoniker": "ThreadCo\\ContactUs.aspx",
+              "ToolTip": "D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\ContactUs.aspx",
+              "RelativeToolTip": "ThreadCo\\ContactUs.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-21T08:51:58.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Cart.aspx",
+              "DocumentMoniker": "D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\Cart.aspx",
+              "RelativeDocumentMoniker": "ThreadCo\\Cart.aspx",
+              "ToolTip": "D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\Cart.aspx",
+              "RelativeToolTip": "ThreadCo\\Cart.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-21T08:52:46.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Payment.aspx",
+              "DocumentMoniker": "D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\Payment.aspx",
+              "RelativeDocumentMoniker": "ThreadCo\\Payment.aspx",
+              "ToolTip": "D:\\Webs\\Thread Co- Fashion Web Site\\ThreadCo\\ThreadCo\\Payment.aspx",
+              "RelativeToolTip": "ThreadCo\\Payment.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-21T09:25:12.852Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

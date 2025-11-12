@@ -1,0 +1,231 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="ThreadCo.SiteMaster" %>
+
+<!DOCTYPE html>
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%: Page.Title %> - Thread Co</title>
+
+    <webopt:bundlereference runat="server" path="~/Content/css" />
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+
+    <style>
+        .header-banner {
+            background-color: white;
+            padding: 10px 0;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            position: relative;
+        }
+
+        .header-banner .logo {
+            height: 80px;
+            margin-left: 20px;
+        }
+
+        .header-banner .title {
+            position: absolute;
+            left: 50%;
+            transform: translateX(-50%);
+            font-size: 36px;
+            font-weight: bold;
+            font-family: 'Georgia', serif;
+            letter-spacing: 4px;
+            color: black;
+        }
+
+        .navbar {
+            margin-bottom: 0 !important;
+             color: black;
+        }
+
+        .navbar .btn-white {
+           background-color: white;
+           color: black;
+           border: 1px solid white;
+           padding: 6px 8px;
+           margin-left: 10px;
+           border-radius: 12px;
+            text-decoration: none;
+           transition: background-color 0.3s ease;
+           font-weight:500;
+}
+
+        .navbar .btn-white:hover {
+           background-color: #f0f0f0;
+           color: black;
+         }
+        
+        /* Footer styling */
+        .footer {
+            background-color: #111;
+            color: white;
+            padding: 60px 20px;
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+            font-family: Arial, sans-serif;
+            width: 100%;
+            margin: 0;
+            box-sizing: border-box;
+        }
+
+        .footer-column {
+            flex: 1 1 200px;
+            margin-left: 50px;
+            margin-right: 50px;
+        }
+
+        .footer-column h4 {
+            color: #fff;
+            margin-bottom: 15px;
+            font-size: 16px;
+        }
+
+        .footer-column ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        .footer-column ul li {
+            margin-bottom: 10px;
+        }
+
+        .footer-column ul li a {
+            color: #ccc;
+            text-decoration: none;
+            font-size: 14px;
+        }
+
+        .footer-column ul li a:hover {
+            color: #fff;
+        }
+
+        .newsletter input[type="email"] {
+            padding: 8px;
+            width: 70%;
+            border: none;
+            border-radius: 3px;
+            margin-right: 5px;
+        }
+
+        .newsletter input[type="submit"] {
+            padding: 8px 12px;
+            background-color: #fff;
+            color: #000;
+            border: none;
+            cursor: pointer;
+            border-radius: 3px;
+        }
+
+        .social-icons {
+            margin-top: 15px;
+        }
+
+        .social-icons i {
+            font-size: 20px;
+            color: #fff;
+            margin-right: 10px;
+            cursor: pointer;
+        }
+
+        
+    </style>
+</head>
+<body>
+    <form runat="server">
+        <asp:ScriptManager runat="server" />
+
+        <!-- White Banner Header with Logo on Left and Centered Title -->
+        <div class="header-banner">
+            <a href="Home.aspx">
+            <img src="images/logo.JPEG" alt="Logo" class="logo" width="100px" height="300px" /></a>
+            <div class="title">THREAD CO</div>
+            <div style="width: 80px; margin-right: 20px;"></div> <%-- Empty space for symmetry --%>
+        </div>
+
+        <!-- Navigation Bar -->
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-dark">
+            <div class="container">
+                
+                <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item"><a class="nav-link" runat="server" href="~/Collection.aspx">COLLECTION</a></li>
+                        <li class="nav-item"><a class="nav-link" runat="server" href="~/Trends.aspx">TRENDS</a></li>
+                        <li class="nav-item"><a class="nav-link" runat="server" href="~/New_Arrivals.aspx">NEW ARRIVALS</a></li>
+                        <li class="nav-item"><a class="nav-link" runat="server" href="~/ContactUs.aspx">CONTACT US</a></li>
+                        <li class="nav-item"><a class="nav-link" runat="server" href="~/AboutUs.aspx">ABOUT US</a></li>
+                    </ul>
+       
+                    <a href="Login.aspx" class="btn-white">SIGN IN</a>
+                    <a href="Register.aspx" class="btn-white">SIGN UP</a>
+                  
+                    
+                </div>
+            </div>
+        </nav>
+
+        <!-- Main Content -->
+        <div class="container body-content">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+            <hr />
+           
+                
+                
+
+     
+            
+        <!-- Footer -->
+        <div class="footer">
+            <div class="footer-column" style="margin-left: 150px">
+                <h4>SHOP</h4>
+                <ul>
+                    <li><a href="Home.aspx">Home</a></li>
+                    <li><a href="New_Arrivals.aspx">New Arrivals</a></li>
+                    <li><a href="Collection.aspx">View Collections</a></li>
+
+
+                </ul>
+            </div>
+            <div class="footer-column">
+                <h4>INFORMATION</h4>
+                <ul>
+                    <li><a href="AboutUs.aspx">About Us</a></li>
+                    <li><a href="ContactUs.aspx">Contact Us</a></li>
+
+                </ul>
+            </div>
+            <div class="footer-column">
+                <h4>TERMS OF USE</h4>
+                <ul>
+                    <li><a href="Terms_Conditions.aspx">Terms & Conditions</a></li>
+                    <li><a href="Privacy_Policy.aspx">Privacy Policy</a></li>
+                    <li><a href="#">Shipping & Returns</a></li>
+                </ul>
+            </div>
+            <div class="footer-column newsletter" style="margin-left: 150px">
+                <h4>NEWSLETTER SIGN UP</h4>
+                <p>Sign up for exclusive updates, new arrivals & insider-only discounts</p>
+                <form>
+                    <input type="email" placeholder="Enter your email address" /><br />
+                    <br />
+                    <input type="submit" value="SUBMIT" />
+                </form>
+                <div class="social-icons">
+                    <i class="fab fa-facebook-f"></i>
+                    <i class="fab fa-twitter"></i>
+                    <i class="fab fa-instagram"></i>
+                </div>
+            </div>
+        </div>
+        <p align="center">&copy; <%: DateTime.Now.Year %> - My ASP.NET Application</p>
+      </div>
+    </form>
+  
+</body>
+</html>
